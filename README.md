@@ -1,0 +1,2 @@
+# Boston-Housing-Price-Prediction-using-ML
+In this repository we have covered a case study that is based on the Boston housing data. It contains the details of 506 houses in the Boston city. Our task is to create a machine learning model which can predict the average price of house based on its characteristics. Target variable is 'MEDV' (Median value of owner-occupied homes in $1000's) Code is written both in R and Python. Approaches are different for both codes.
